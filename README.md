@@ -1,6 +1,6 @@
 # Simple CI Pipeline with Docker, Jenkins, and Git
 
-This project demonstrates setting up a Continuous Integration (CI) pipeline for a simple web application using Docker, Jenkins, and Git.
+This project demonstrates setting up a Continuous Integration (CI) pipeline for a simple web application(Task Manager) using Docker, Jenkins, and Git.
 
 ## Requirements
 

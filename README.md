@@ -4,6 +4,9 @@ This project demonstrates setting up a Continuous Integration (CI) pipeline for 
 
 ## Requirements
 
+- Python
+- Flask
+- HTML
 - Docker
 - Jenkins
 - Git
@@ -12,7 +15,7 @@ This project demonstrates setting up a Continuous Integration (CI) pipeline for 
 
 ### 1. Create a Simple Web Application
 
-We'll be using Flask, a simple web framework in Python, to create a basic web application.
+We'll be using Flask, a simple web framework in Python, to create a basic web application.(app.py+templates/index.html)
 
 ### 2. Writing Dockerfile
 

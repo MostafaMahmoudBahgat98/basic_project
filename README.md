@@ -11,7 +11,7 @@ This project demonstrates setting up a Continuous Integration (CI) pipeline for 
 - Jenkins
 - Git
 
-## Steps
+### Steps
 
 ### 1. Create a Simple Web Application
 
